@@ -2,3 +2,4 @@
 .sconsign.dblite
 project.xml.log
 **/build
+.vs
